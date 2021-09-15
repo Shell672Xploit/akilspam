@@ -12,9 +12,9 @@ __banner__ = ('''
   spam kita.bisa gan :V
 %s ###############################
  # %scode : Maoundis             %s#
- # %srecode: SalisM3             %s#
+ # %srecode: Shell672Xploit             %s#
  # %stype : wa/email             %s#
- # %steam : xiuz.sec             %s#
+ # %steam : MAKASSAR CYBER ARMY             %s#
  ###############################%s
     ''' % (c,w,c,w,c,w,c,w,c,w))
 
